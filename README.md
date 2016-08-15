@@ -1,4 +1,4 @@
-# Extra Credit #
+# Extra Credit Week1#
 
 Prepare by 
  - Vandet Pin
@@ -6,5 +6,5 @@ Prepare by
 
 
 ### Technology and framework ###
-*Hibernate
-*JUnit Test
+* Hibernate
+* JUnit Test
